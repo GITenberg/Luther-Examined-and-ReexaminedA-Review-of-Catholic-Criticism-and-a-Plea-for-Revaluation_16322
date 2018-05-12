@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '703'
     url: http://www.gutenberg.org/2009/agents/703
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16322#Luther-Examined-and-ReexaminedA-Review-of-Catholic-Criticism-and-a-Plea-for-Revaluation
 gutenberg_issued: '2005-07-18'
 gutenberg_type: Text
 identifiers:
